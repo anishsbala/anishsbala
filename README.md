@@ -1,7 +1,5 @@
 ﻿# Anish Balasubramanian
 
-Computer Science and Mathematics student at UMBC focused on backend systems, distributed computing, applied AI, and robotics.
-
 I build software that keeps working when data is large, services fail, or several components need to agree. My recent work spans fault-tolerant C++ services, Python AI tooling, sensor fusion, robot control, and full-stack backend projects.
 
 ## Featured projects
