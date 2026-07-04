@@ -6,9 +6,9 @@ I build software that keeps working when data is large, services fail, or severa
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
+| [NetSentinel](https://github.com/anishsbala/NetSentinel) | Defensive local-lab scanning, telemetry ingestion, firewall-risk analysis, alerting, and operations views | C#, ASP.NET Core, EF Core, SQL Server, Python, Docker |
 | [Backplane](https://github.com/anishsbala/backplane) | Fault-tolerant task scheduling, priority preemption, durable checkpoints, retries, and crash recovery | C++, gRPC, Protobuf, Redis, Docker, CMake |
 | [Counterweight](https://github.com/anishsbala/counterweight) | Claim extraction, evidence ranking, persistent job queues, worker recovery, and a demo dashboard | Python, FastAPI, PostgreSQL, Redis, JavaScript, Docker |
-| [NetSentinel](https://github.com/anishsbala/NetSentinel) | Defensive local-lab scanning, telemetry ingestion, firewall-risk analysis, alerting, and operations views | C#, ASP.NET Core, EF Core, SQL Server, Python, Docker |
 
 ## Engineering interests
 
