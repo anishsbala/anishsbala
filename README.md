@@ -26,4 +26,4 @@ I build software that keeps working when data is large, services fail, or severa
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/anishbalasubramanian)
-- [GitHub](https://github.com/anishsbala)
+- [Email](mailto:anishb1@umbc.edu)
