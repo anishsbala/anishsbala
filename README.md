@@ -21,7 +21,7 @@ I build software that keeps working when data is large, services fail, or severa
 
 `C++` `Python` `C#` `Java` `MATLAB` `SQL` `JavaScript`  
 `gRPC` `Protobuf` `Redis` `PostgreSQL` `SQL Server` `FastAPI` `ASP.NET Core`  
-`Docker` `Linux` `CMake` `GitHub Actions` `Databricks` `TensorFlow`
+`Docker` `Linux` `CMake` `Databricks` `TensorFlow`
 
 ## Connect
 
