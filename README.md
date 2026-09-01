@@ -1,27 +1,28 @@
 ﻿# Anish Balasubramanian
 
-I build software that keeps working when data is large, services fail, or several components need to agree. My recent work spans fault-tolerant C++ services, Python AI tooling, sensor fusion, robot control, and full-stack backend projects.
+Computer Science and Mathematics student at UMBC building backend systems, developer tools, and applied AI projects. I focus on reliability, clear APIs, and practical testing.
 
 ## Featured projects
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [NetSentinel](https://github.com/anishsbala/NetSentinel) | Defensive local-lab scanning, telemetry ingestion, firewall-risk analysis, alerting, and operations views | C#, ASP.NET Core, EF Core, SQL Server, Python, Docker |
-| [Backplane](https://github.com/anishsbala/backplane) | Fault-tolerant task scheduling, priority preemption, durable checkpoints, retries, and crash recovery | C++, gRPC, Protobuf, Redis, Docker, CMake |
-| [Counterweight](https://github.com/anishsbala/counterweight) | Claim extraction, evidence ranking, persistent job queues, worker recovery, and a demo dashboard | Python, FastAPI, PostgreSQL, Redis, JavaScript, Docker |
+| [NetSentinel](https://github.com/anishsbala/NetSentinel) | Defensive local-lab scanning, telemetry ingestion, firewall-risk analysis, alerting, and operations views | C#, ASP.NET Core, SQL Server, Docker |
+| [electron-sync-store](https://github.com/anishsbala/electron-sync-store) | Typed cross-process state for Electron with optimistic updates, canonical ordering, recovery, secure IPC, and React hooks | TypeScript, Electron, React |
+| [Backplane](https://github.com/anishsbala/backplane) | Fault-tolerant task scheduling, priority preemption, durable checkpoints, retries, and crash recovery | C++, gRPC, Redis, Docker |
+| [Counterweight](https://github.com/anishsbala/counterweight) | Claim extraction, evidence ranking, persistent job queues, worker recovery, and a demo dashboard | Python, FastAPI, PostgreSQL, Redis |
 
 ## Engineering interests
 
-- Distributed systems, fault tolerance, and backend reliability
-- C++ systems programming and service infrastructure
-- Applied AI tools that make large or unstructured datasets easier to use
-- Robotics, controls, sensor fusion, and autonomous systems
+- Backend and distributed systems
+- Systems programming and developer infrastructure
+- Reliability, fault recovery, and test automation
+- Applied AI and robotics
 
-## Technologies
+## Core technologies
 
-`C++` `Python` `C#` `Java` `MATLAB` `SQL` `JavaScript`  
-`gRPC` `Protobuf` `Redis` `PostgreSQL` `SQL Server` `FastAPI` `ASP.NET Core`  
-`Docker` `Linux` `CMake` `Databricks` `TensorFlow`
+- **Languages:** TypeScript, C++, Python, C#, Java, SQL
+- **Platforms and frameworks:** Node.js, React, Electron, gRPC, FastAPI, ASP.NET Core
+- **Data and infrastructure:** PostgreSQL, Redis, Docker, Linux, GitHub Actions
 
 ## Connect
 
