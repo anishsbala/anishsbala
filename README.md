@@ -4,12 +4,12 @@ Computer Science and Mathematics student at UMBC building backend systems, devel
 
 ## Featured projects
 
-| Project | What it demonstrates | Stack |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| [NetSentinel](https://github.com/anishsbala/NetSentinel) | Defensive local-lab scanning, telemetry ingestion, firewall-risk analysis, alerting, and operations views | C#, ASP.NET Core, SQL Server, Docker |
-| [electron-sync-store](https://github.com/anishsbala/electron-sync-store) | Typed cross-process state for Electron with optimistic updates, canonical ordering, recovery, secure IPC, and React hooks | TypeScript, Electron, React |
-| [Backplane](https://github.com/anishsbala/backplane) | Fault-tolerant task scheduling, priority preemption, durable checkpoints, retries, and crash recovery | C++, gRPC, Redis, Docker |
-| [Counterweight](https://github.com/anishsbala/counterweight) | Claim extraction, evidence ranking, persistent job queues, worker recovery, and a demo dashboard | Python, FastAPI, PostgreSQL, Redis |
+| [Electron-Sync-Store](https://github.com/anishsbala/electron-sync-store) | Keeps shared data consistent across desktop application windows, shows changes immediately, and recovers automatically from missed updates | TypeScript, Electron, React, Playwright |
+| [NetSentinel](https://github.com/anishsbala/NetSentinel) | Monitors devices and services, identifies firewall risks, and presents system health and alerts in an operations dashboard | Python, .NET, SQL, Docker |
+| [Backplane](https://github.com/anishsbala/backplane) | Distributes background jobs across workers, preserves completed work during failures, and prioritizes urgent tasks | C++, gRPC, Protobuf, Redis, Docker |
+| [Counterweight](https://github.com/anishsbala/counterweight) | Extracts claims from news articles, ranks supporting evidence, and processes research jobs in parallel | Python, FastAPI, PostgreSQL, Redis, JavaScript, Docker |
 
 ## Engineering interests
 
